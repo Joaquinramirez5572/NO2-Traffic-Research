@@ -1,6 +1,6 @@
 # NO2 Traffic Research
 
-A research-focused analysis project examining the relationship between NO2 emissions and traffic patterns in New York City. This work used multi-year EPA air quality data and FHWA traffic sensor data to evaluate environmental trends and support a statistical research narrative.
+A research-focused analysis project examining the relationship between NO2 emissions and traffic patterns in New York City. This work used multi-year EPA air quality data and FHWA traffic sensor data [...]
 
 ## Overview
 
@@ -9,11 +9,11 @@ A research-focused analysis project examining the relationship between NO2 emiss
 - Developed the research methodology and data-processing workflow
 - Contributed to the introduction, findings, and conclusion sections
 
-This project centered on research design and analytical interpretation. I led the development of the research methodology, designed the data analysis approach, and authored the introduction, findings, and conclusions. Full credit is given to Sujan Neupane (University of Maryland at Baltimore) for software development and implementation of the analytical pipeline.
+This project centered on research design and analytical interpretation. I led the development of the research methodology, designed the data analysis approach, and authored the introduction, findings,[...]
 
 ## Why This Project Matters
 
-Air pollution and transportation are closely connected, and understanding how traffic conditions influence NO2 levels is important for environmental policy and public health. This project used real-world datasets to study how vehicle activity and emissions change over time across a major urban area, contributing to the body of work on urban air quality and transportation impact.
+Air pollution and transportation are closely connected, and understanding how traffic conditions influence NO2 levels is important for environmental policy and public health. This project used real-wo[...]
 
 ## Features
 
@@ -77,7 +77,7 @@ NO2-Traffic-Research/
 
 ## Testing and Validation
 
-The project used rigorous data validation steps to confirm accurate time alignment, reduce inconsistencies, and ensure that trends remained reliable across the full dataset. Validation included reviewing missing values, comparing time ranges, and verifying that analytical results matched the intended research narrative and supported the conclusions drawn.
+The project used rigorous data validation steps to confirm accurate time alignment, reduce inconsistencies, and ensure that trends remained reliable across the full dataset. Validation included review[...]
 
 ## Contributors
 
@@ -85,3 +85,7 @@ The project used rigorous data validation steps to confirm accurate time alignme
 - Mina Pham: Research methodology, data analysis design, introduction, findings, and conclusions
 - Matthew Nguyen Research methodology, data analysis design, introduction, findings, and conclusions
 - Sujan Neupane (University of Maryland at Baltimore): Software development (full program functionality credit) and analytical implementation
+
+## Report
+
+[Download the findings summary PDF](report/findings_summary.pdf)
