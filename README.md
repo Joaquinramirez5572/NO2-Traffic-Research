@@ -88,4 +88,4 @@ The project used rigorous data validation steps to confirm accurate time alignme
 
 ## Report
 
-[Download the findings summary PDF]([report/findings_summary.pdf](https://github.com/Joaquinramirez5572/NO2-Traffic-Research/blob/main/Final_Revised_NO2_Traffic_Poster_New.pdf))
+Please refer to the PDF attached n the repository.
