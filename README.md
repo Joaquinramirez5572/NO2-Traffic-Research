@@ -84,4 +84,4 @@ The project used rigorous data validation steps to confirm accurate time alignme
 - Joaquin Ramirez: Abstract, research methodology, data analysis design, introduction, findings, and conclusions
 - Mina Pham: Research methodology, data analysis design, introduction, findings, and conclusions
 - Matthew Nguyen Research methodology, data analysis design, introduction, findings, and conclusions
-- Sujan Neupane (University of Maryland at Baltimore): Software development (full program functionality credit) and analytical pipeline implementation
+- Sujan Neupane (University of Maryland at Baltimore): Software development (full program functionality credit) and analytical implementation
