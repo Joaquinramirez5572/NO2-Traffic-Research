@@ -77,7 +77,7 @@ NO2-Traffic-Research/
 
 ## Testing and Validation
 
-The project used rigorous data validation steps to confirm accurate time alignment, reduce inconsistencies, and ensure that trends remained reliable across the full dataset. Validation included review[...]
+The project used rigorous data validation steps to confirm accurate time alignment, reduce inconsistencies, and ensure that trends remained reliable across the full dataset.
 
 ## Contributors
 
@@ -88,4 +88,4 @@ The project used rigorous data validation steps to confirm accurate time alignme
 
 ## Report
 
-Please refer to the PDF attached n the repository.
+Please refer to the PDF attached to the repository.
